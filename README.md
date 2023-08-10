@@ -14,3 +14,4 @@ This is a simple visualization project made using javascript
 
 ## [Check out the website here](https://akshayrathore07.github.io/Sorting-Visualizer/)
 ![Screenshot (6)](https://github.com/akshayrathore07/Sorting-Visualizer/assets/110248720/12194118-afa5-4a02-b241-5ded139ce064)
+![Screenshot (9)](https://github.com/akshayrathore07/Sorting-Visualizer/assets/110248720/77cd4987-8da8-4076-97fd-c636c0182239)
