@@ -8,3 +8,4 @@ This is a simple visualization project made using javascript
 
 # This is built using HTML , CSS and JS
 
+https://akshayrathore07.github.io/Sorting-Visualizer/
