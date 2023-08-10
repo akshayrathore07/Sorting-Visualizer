@@ -7,3 +7,5 @@ This is a simple visualization project made using javascript
 - Merge Sort
 
 # This is built using HTML , CSS and JS
+
+file:///C:/Users/HP/Desktop/sortingVisualize/index.html
